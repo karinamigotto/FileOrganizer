@@ -1,0 +1,11 @@
+{
+  "source_folder": "path_to_source_folder",
+  "destination_folder": "path_to_destination_folder",
+  "email": {
+    "smtp_server": "smtp.example.com",
+    "port": 587,
+    "sender_email": "your_email@example.com",
+    "receiver_email": "receiver_email@example.com",
+    "password": "your_password"
+  }
+}

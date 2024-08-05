@@ -1,0 +1,2 @@
+2024-08-05 14:39:49,525 - ERROR - Source folder 'path_to_source_folder' does not exist.
+2024-08-05 14:39:49,553 - ERROR - An error occurred: [Errno 11001] getaddrinfo failed
